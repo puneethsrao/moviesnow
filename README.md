@@ -15,15 +15,15 @@ Movie fans now have a place, where they can find all their favorite flicks. Peop
         
 	4) SERIES - This page consists of tv series (only trailers) that user wants to watch.
         
-        5) CARTOONS - This page consists of animation movies (only trailers) that user wants to watch.
-        
-        6) FAQ - This page consists of Frequently Asked Questions that user wants to know.
+	5) CARTOONS - This page consists of animation movies (only trailers) that user wants to watch.
+	
+	6) FAQ - This page consists of Frequently Asked Questions that user wants to know.
 									
 	7) CONTACT - This page consists of the form that user wants to get in touch with this website.
-        
-        8) SIGN IN - This page consists of sign in form as well as new account that user wants to create (sign up).
-        
-        9) SIGN UP - This page consists of sign up form where new user can sign up.
+	
+	8) SIGN IN - This page consists of sign in form as well as new account that user wants to create (sign up).
+	
+	9) SIGN UP - This page consists of sign up form where new user can sign up.
 
 
 # Technologies Used
