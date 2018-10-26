@@ -7,7 +7,7 @@ Movie fans now have a place, where they can find all their favorite flicks. Peop
 
    This website consists of multiple static pages.
 
-	1) HOME- This page contains the details of all the movies (only trailers) that are added according to the seasons / Newly 			  released movies / Movies / Series / Cartoons & also the Expected Premiere.
+	1) HOME- This page contains the details of all the movies (only trailers) that are added according to the seasons / Newly released movies / Movies / Series / Cartoons & also the Expected Premiere.
 									
 	2) ABOUT - This page tells the user about the MoviesNow, How it works & their partners.
 												
